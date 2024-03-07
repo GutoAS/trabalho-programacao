@@ -250,9 +250,9 @@ html {
   transform: skew(-10deg);
   box-shadow: 0.2rem 0.2rem 0.5rem #555;
 }
-/* End of Section 2 */
+/* Fim da Seccao 2 */
 
-/* Section 3 */
+/* Seccao 3 */
 .section-3 {
   width: 100%;
   height: 100%;
@@ -290,9 +290,9 @@ html {
   opacity: 0.2;
 }
 
-/* Fim da Seccao 3
+/* Fim da Seccao 3 */
 
-/* Section 4 */
+/* Secccao 4 */
 .section-4 {
   width: 100%;
   height: 70vh;
@@ -339,9 +339,9 @@ html {
   letter-spacing: 1rem;
   cursor: pointer;
 }
-/* End of Section 4 */
+/* Fim da Seccao 4 */
 
-/* Section 5 */
+/* Seccao 5 */
 .section-5 {
   width: 100%;
   height: 30vh;
@@ -373,9 +373,9 @@ html {
   font-weight: 300;
   text-align: center;
 }
-/* End of Section 5 */
+/* Fim da seccao 5 */
 
-/* Responsive */
+/* Responsividade */
 @media (max-width: 1200px) {
   .services {
     height: auto;
@@ -463,6 +463,4 @@ html {
     width: 40rem;
   }
 }
-/* End of Responsive */
-
-/* END of CSS Part */
+/* Fim da Responsividade */

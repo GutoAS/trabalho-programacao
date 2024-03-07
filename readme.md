@@ -4,91 +4,91 @@
 
 site: https://grupo05.netlify.app/
 
-# Documentacao README.md
+# Documentação README.md
 
-This document provides an overview of the HTML tags used in the provided HTML code along with brief explanations. Below is the source code of the HTML file followed by the CSS code used for styling.
+Este documento fornece uma visão geral das tags HTML usadas no código HTML fornecido, juntamente com breves explicações. Abaixo está o código fonte do arquivo HTML seguido pelo código CSS usado para estilizar.
 
-## HTML Tags Explanation:
+## HTML Explicação de Tags:
 
 ### `<!DOCTYPE html>`
 
-- Declares the document type and version of HTML being used.
+- Declara o tipo de documento e versão de HTML sendo usado.
 
 ### `<html lang="pt">`
 
-- Defines the root element of the HTML document and specifies the language as Portuguese.
+- Define o elemento raiz do documento HTML e especifica o idioma como Português.
 
 ### `<head>`
 
-- Contains meta-information about the HTML document, such as character encoding, viewport settings, title, and links to external resources like stylesheets and fonts.
+- Contém metainformações sobre o documento HTML, como codificação de caracteres, configurações da janela de visualização, título e links para recursos externos, como folhas de estilo e fontes.
 
 ### `<meta charset="UTF-8" />`
 
-- Specifies the character encoding for the document as UTF-8, which supports a wide range of characters.
+- Especifica a codificação de caracteres do documento como UTF-8, que suporta uma ampla variedade de caracteres.
 
 ### `<meta name="viewport" content="width=device-width, initial-scale=1.0" />`
 
-- Sets the viewport properties to control how the webpage is displayed on different devices, ensuring proper scaling and layout.
+- Define as propriedades da janela de visualização para controlar como a página da web é exibida em diferentes dispositivos, garantindo dimensionamento e layouts adequados.
 
 ### `<title>`
 
-- Sets the title of the webpage displayed on the browser tab or window.
+- Define o título da página da web exibida na guia ou janela do navegador.
 
 ### `<link>`
 
-- Imports external resources such as CSS stylesheets and fonts.
+- Importa recursos externos, como folhas de estilo CSS e fontes.
 
 ### `<body>`
 
-- Contains the content of the HTML document visible to users, including text, images, links, forms, and other elements.
+- Contém o conteúdo do documento HTML visível aos usuários, incluindo textos, imagens, links, formulários e outros elementos.
 
 ### `<div>`
 
-- Defines a division or section within an HTML document, used for grouping and styling purposes.
+- Define uma divisão ou seção dentro de um documento HTML, usada para fins de agrupamento e estilo.
 
 ### `<section>`
 
-- Represents a thematic grouping of content within an HTML document, often used for structuring different parts of a webpage.
+- Representa um agrupamento temático de conteúdo dentro de um documento HTML, frequentemente usado para estruturar diferentes partes de uma página web.
 
 ### `<nav>`
 
-- Defines a navigation section containing links to different parts of the webpage.
+- Define uma secção de navegação contendo links para diferentes partes da página web.
 
 ### `<a>`
 
-- Defines hyperlinks to navigate to other webpages or sections within the same webpage.
+- Define hiperlinks para navegar para outras páginas da web ou secções da mesma página da web.
 
 ### `<h1>, <h2>, <h3>`
 
-- Heading elements used to define the hierarchy and structure of the content, with `<h1>` being the highest level and `<h3>` being lower levels.
+- Elementos de cabeçalho usados ​​para definir a hierarquia e estrutura do conteúdo, com `<h1>` sendo do maior nível e `<h3>` sendo níveis mais baixos.
 
 ### `<img>`
 
-- Inserts an image into the webpage, with the `src` attribute specifying the image file and the `alt` attribute providing alternative text for accessibility.
+- Insere uma imagem na página da web, com o atributo `src` especificando o arquivo de imagem e o atributo `alt` fornecendo texto alternativo para acessibilidade.
 
 ### `<form>`
 
-- Represents a section containing interactive controls for user input, such as text fields, checkboxes, and buttons.
+- Representa uma secção que contém controles interativos para entrada do usuário, como campos de texto, caixas de seleção e botões.
 
 ### `<input>`
 
-- Defines an input control within a form, such as text input, email input, or submit button.
+- Define um controle de entrada/input em um formulário, como entrada de texto, entrada de email ou botão de envio.
 
 ### `<textarea>`
 
-- Defines a multiline text input control within a form for longer text entries.
+- Define um controle de entrada de texto multi-linha em um formulário para entradas de texto mais longas.
 
 ### `<footer>`
 
-- Represents a footer section typically containing copyright information, social media links, and other supplementary content.
+- Representa uma secção de rodapé que normalmente contém informações de direitos autorais, links de mídias sociais e outros conteúdos complementares.
 
-## CSS Styles Explanation:
+## Explicação de estilos CSS:
 
-The provided CSS code defines styling rules for various HTML elements and sections of the webpage. Common styles include:
+O código CSS fornecido define regras de estilo para vários elementos HTML e seções da página web. Os estilos comuns incluem:
 
-- Setting default styles for all elements using the universal selector `*`.
-- Defining typography styles, such as font family, size, and color.
-- Styling specific sections of the webpage, like the navbar, headings, progress bars, projects, contact form, and footer.
-- Implementing responsive design using media queries to adjust styles based on the device's screen size.
+- Configurando estilos padrão para todos os elementos usando o seletor universal `*`.
+- Definir estilos de tipografia, como família de fontes, tamanho e cor.
+- Estilize secções específicas da página da web, como barra de navegação, títulos, barras de progresso, projetos, formulário de contato e rodapé.
+- Implementação de design responsivo usando consultas de mídia para ajustar estilos com base no tamanho da tela do dispositivo.
 
-These styles contribute to the overall visual appearance and layout of the webpage, ensuring a cohesive and user-friendly experience across different devices.
+Esses estilos contribuem para a aparência visual geral e o layout da página da web, garantindo uma experiência coesa e fácil de usar em diferentes dispositivos.
