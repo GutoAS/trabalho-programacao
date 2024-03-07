@@ -4,7 +4,7 @@
 
 site: https://grupo05.netlify.app/
 
-# Documentation for README.md
+# Documentacao README.md
 
 This document provides an overview of the HTML tags used in the provided HTML code along with brief explanations. Below is the source code of the HTML file followed by the CSS code used for styling.
 
